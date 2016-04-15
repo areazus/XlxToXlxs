@@ -115,7 +115,4 @@ public class XlsConverter {
 		return null;
 	}
 
-	public static void main(String[] agr){
-		new XlsConverter("C:\\Users\\ahmed\\Downloads\\download.xls");
-	}
 }
